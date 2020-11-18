@@ -18,4 +18,4 @@ charts and giving recommendations.
 
 <img src=https://github.com/sumony2j/Covid-19_Analysis_Asia/blob/main/Screenshots/Dashboard/Dashboaed-2.png>
 
-<img src=https://github.com/sumony2j/Covid-19_Analysis_Asia/blob/main/Screenshots/Dashboard/Dashboaed-3.png>
+<img src=https://github.com/sumony2j/Covid-19_Analysis_Asia/blob/main/Screenshots/Dashboard/Dashboard-3.png>

@@ -14,8 +14,8 @@ charts and giving recommendations.
 
 ## Dashboards --------
 
-<img src=https://github.com/sumony2j/Covid-19_Analysis_Asia/blob/main/Screenshots/Dashboard/Dashboaed-1.png>
+<img src=https://github.com/sumony2j/Covid-19_Analysis_Asia/blob/main/Screenshots/Dashboard/Dashboard-1.png>
 
 <img src=https://github.com/sumony2j/Covid-19_Analysis_Asia/blob/main/Screenshots/Dashboard/Dashboaed-2.png>
 
-<img src=https://github.com/sumony2j/Covid-19_Analysis_Asia/blob/main/Screenshots/Dashboard/Dashboaed-2.png>
+<img src=https://github.com/sumony2j/Covid-19_Analysis_Asia/blob/main/Screenshots/Dashboard/Dashboaed-3.png>

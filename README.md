@@ -12,4 +12,10 @@ basic as well as advanced charts
 charts and giving recommendations.
 ### ● Dataset: Daily updated .csv file on https://bit.ly/30d2gdi
 
+## Dashboards --------
+
+<img src=https://github.com/sumony2j/Covid-19_Analysis_Asia/blob/main/Screenshots/Dashboard/Dashboaed-1.png>
+
+<img src=https://github.com/sumony2j/Covid-19_Analysis_Asia/blob/main/Screenshots/Dashboard/Dashboaed-2.png>
+
 <img src=https://github.com/sumony2j/Covid-19_Analysis_Asia/blob/main/Screenshots/Dashboard/Dashboaed-2.png>

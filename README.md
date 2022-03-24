@@ -1,4 +1,4 @@
-# Timeline Analysis : Covid-19 cases in Asia
+# Timeline Analysis : Covid-19 cases in Asia using tableau
 
 ## Overview :
                 ● Create a storyboard showing spread of Covid-19 cases in your country or any
